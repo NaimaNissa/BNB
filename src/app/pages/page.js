@@ -13,9 +13,14 @@ export default function GeneralPage() {
       <nav className="absolute top-0 left-0 right-0 z-50 flex items-center justify-between p-4 md:p-6 bg-white/5 backdrop-blur-sm">
         <div className="flex items-center">
           <div className="flex items-center">
-            <div className="w-10 h-10 bg-white rounded-md flex items-center justify-center mr-3">
-              <span className="text-gray-800 font-bold text-sm">B&B</span>
-            </div>
+            <Image
+              src="/bnb-logo.png"
+              alt="B&B Group Logo"
+              width={80}
+              height={40}
+              className="h-10 w-auto mr-3"
+              priority
+            />
             <span className="text-white font-semibold text-lg">B&B GROUP</span>
           </div>
         </div>
@@ -262,9 +267,13 @@ export default function GeneralPage() {
           <div className="grid md:grid-cols-4 gap-8">
             <div>
               <div className="flex items-center mb-6">
-                <div className="w-10 h-10 bg-white rounded-md flex items-center justify-center mr-3">
-                  <span className="text-gray-800 font-bold text-sm">B&B</span>
-                </div>
+                <Image
+                  src="/bnb-logo.png"
+                  alt="B&B Group Logo"
+                  width={80}
+                  height={40}
+                  className="h-10 w-auto mr-3"
+                />
                 <span className="font-semibold text-lg">B&B GROUP</span>
               </div>
               <p className="text-gray-400 text-sm leading-relaxed">
@@ -405,12 +414,16 @@ export default function GeneralPage() {
         <div className="p-6">
           <div className="flex items-center justify-between mb-8">
             <div className="flex items-center">
-              <div className="w-10 h-10 bg-white border-2 border-gray-200 rounded-md flex items-center justify-center mr-3">
-                <span className="text-gray-800 font-bold text-sm">B&B</span>
-              </div>
-              <span className="text-gray-800 font-semibold text-lg">
-                B&B GROUP
-              </span>
+                <Image
+                  src="/bnb-logo.png"
+                  alt="B&B Group Logo"
+                  width={70}
+                  height={35}
+                  className="h-9 w-auto mr-3"
+                />
+                <span className="text-gray-800 font-semibold text-lg">
+                  B&B GROUP
+                </span>
             </div>
             <button
               onClick={() => setMobileMenuOpen(false)}

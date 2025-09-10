@@ -21,7 +21,7 @@ export default function GeneralPage() {
               className="h-10 w-auto mr-3"
               priority
             />
-            <span className="text-white font-semibold text-lg">B&B GROUP</span>
+            <span className="text-white font-semibold text-lg">BnB GROUP</span>
           </div>
         </div>
         <div className="hidden md:flex space-x-8 text-white">
@@ -30,7 +30,7 @@ export default function GeneralPage() {
               href="/pages"
               className="hover:text-orange-500 transition-colors flex items-center"
             >
-              About B&B
+              About BnB
               <svg
                 className="ml-1 w-4 h-4"
                 fill="none"
@@ -247,7 +247,7 @@ export default function GeneralPage() {
                   href="#"
                   className="block text-gray-600 hover:text-orange-500 transition-colors"
                 >
-                  About B&B Group
+                  About BnB Group
                 </a>
                 <a
                   href="#"
@@ -274,7 +274,7 @@ export default function GeneralPage() {
                   height={40}
                   className="h-10 w-auto mr-3"
                 />
-                <span className="font-semibold text-lg">B&B GROUP</span>
+                <span className="font-semibold text-lg">BnB GROUP</span>
               </div>
               <p className="text-gray-400 text-sm leading-relaxed">
                 Building excellence through tested & trusted solutions across
@@ -392,7 +392,7 @@ export default function GeneralPage() {
           </div>
 
           <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400 text-sm">
-            <p>&copy; 2024 B&B Group. All rights reserved.</p>
+            <p>&copy; 2024 BnB Group. All rights reserved.</p>
           </div>
         </div>
       </footer>
@@ -422,7 +422,7 @@ export default function GeneralPage() {
                   className="h-9 w-auto mr-3"
                 />
                 <span className="text-gray-800 font-semibold text-lg">
-                  B&B GROUP
+                  BnB GROUP
                 </span>
             </div>
             <button
@@ -450,7 +450,7 @@ export default function GeneralPage() {
               className="block text-gray-800 hover:text-orange-500 transition-colors py-2 border-b border-gray-200"
               onClick={() => setMobileMenuOpen(false)}
             >
-              About B&B
+              About BnB
             </a>
             <a
               href="/pages"

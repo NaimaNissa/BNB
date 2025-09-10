@@ -20,7 +20,7 @@ export default function Home() {
               className="h-10 w-auto mr-3"
               priority
             />
-            <span className="text-white font-semibold text-lg">B&B GROUP</span>
+            <span className="text-white font-semibold text-lg">BnB GROUP</span>
           </div>
         </div>
         <div className="hidden md:flex space-x-8 text-white">
@@ -29,7 +29,7 @@ export default function Home() {
               href="/pages"
               className="hover:text-orange-500 transition-colors flex items-center"
             >
-              About B&B
+              About BnB
               <svg
                 className="ml-1 w-4 h-4"
                 fill="none"
@@ -494,7 +494,7 @@ export default function Home() {
                 <div>
                   <h3 className="font-semibold text-lg mb-2">Technology</h3>
                   <p className="text-sm opacity-90 mb-4">
-                    B&B Technology - Innovative tech solutions
+                    BnB Technology - Innovative tech solutions
                   </p>
                   <a
                     href="/pages"
@@ -652,7 +652,7 @@ export default function Home() {
               </div>
               <div className="absolute bottom-6 left-6 text-white">
                 <h3 className="text-xl font-semibold mb-2">
-                  B&B Group Corporate Overview
+                  BnB Group Corporate Overview
                 </h3>
                 <p className="text-sm opacity-90">
                   Discover our journey of excellence across multiple industries
@@ -679,7 +679,7 @@ export default function Home() {
               <div className="h-48 bg-gray-200 bg-[url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80')] bg-cover bg-center"></div>
               <div className="p-6">
                 <h3 className="text-xl font-medium text-gray-800 mb-3">
-                  B&B GROUP EXPANDS OPERATIONS WITH NEW TECHNOLOGY INITIATIVES
+                  BnB GROUP EXPANDS OPERATIONS WITH NEW TECHNOLOGY INITIATIVES
                 </h3>
                 <p className="text-gray-600 text-sm mb-4">
                   Our latest expansion in technology and infrastructure
@@ -809,7 +809,7 @@ export default function Home() {
                   height={40}
                   className="h-10 w-auto mr-3"
                 />
-                <span className="font-semibold text-lg">B&B GROUP</span>
+                <span className="font-semibold text-lg">BnB GROUP</span>
               </div>
               <p className="text-gray-400 text-sm leading-relaxed">
                 Building excellence through tested & trusted solutions across
@@ -927,7 +927,7 @@ export default function Home() {
           </div>
 
           <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400 text-sm">
-            <p>&copy; 2024 B&B Group. All rights reserved.</p>
+            <p>&copy; 2024 BnB Group. All rights reserved.</p>
           </div>
         </div>
       </footer>
@@ -955,7 +955,7 @@ export default function Home() {
                   className="h-9 w-auto mr-3"
                 />
                 <span className="text-gray-800 font-semibold text-lg">
-                  B&B GROUP
+                  BnB GROUP
                 </span>
             </div>
             <button
@@ -983,7 +983,7 @@ export default function Home() {
               className="block text-gray-800 hover:text-orange-500 transition-colors py-2 border-b border-gray-200"
               onClick={() => setMobileMenuOpen(false)}
             >
-              About B&B
+              About BnB
             </a>
             <div className="pl-4 space-y-2">
               <a

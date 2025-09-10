@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "B&B Group - Tested & Trusted",
+  title: "BnB Group - Tested & Trusted",
   description:
     "Leading business conglomerate in Bangladesh with diverse portfolio across multiple industries",
 };

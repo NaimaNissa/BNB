@@ -14,7 +14,7 @@ export default function Home() {
           <div className="flex items-center">
             <Image
               src="/bnb-logo.png"
-              alt="B&B Group Logo"
+              alt="BnB Group Logo"
               width={80}
               height={40}
               className="h-10 w-auto mr-3"
@@ -188,7 +188,7 @@ export default function Home() {
               </h2>
               <p className="text-gray-600 leading-relaxed mb-6 text-lg">
                 The journey began as a shared vision to establish a lasting
-                legacy. Today, B&B Group stands as one of the largest
+                legacy. Today, BnB Group stands as one of the largest
                 socio-economic infrastructure based business conglomerates with
                 a diverse investment portfolio spanning across multiple sectors
                 in Bangladesh.
@@ -723,7 +723,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="flex items-center justify-between mb-12">
             <h2 className="text-2xl md:text-3xl font-light text-gray-800">
-              LIFE AT B&B
+              LIFE AT BnB
             </h2>
             <div className="w-8 h-8 bg-orange-500 flex items-center justify-center">
               <span className="text-white text-sm">→</span>
@@ -736,7 +736,7 @@ export default function Home() {
                 <div className="text-center text-white">
                   <div className="text-6xl font-light mb-2">4</div>
                   <div className="text-sm">YEARS</div>
-                  <div className="text-xs mt-2">B&B</div>
+                  <div className="text-xs mt-2">BnB</div>
                 </div>
               </div>
               <div className="p-6">
@@ -757,7 +757,7 @@ export default function Home() {
                 <div className="text-center text-white">
                   <div className="text-6xl font-light mb-2">4</div>
                   <div className="text-sm">YEARS</div>
-                  <div className="text-xs mt-2">B&B</div>
+                  <div className="text-xs mt-2">BnB</div>
                 </div>
               </div>
               <div className="p-6">
@@ -778,7 +778,7 @@ export default function Home() {
                 <div className="text-center text-white">
                   <div className="text-6xl font-light mb-2">∞</div>
                   <div className="text-sm">OPPORTUNITIES</div>
-                  <div className="text-xs mt-2">B&B</div>
+                  <div className="text-xs mt-2">BnB</div>
                 </div>
               </div>
               <div className="p-6">
@@ -804,7 +804,7 @@ export default function Home() {
               <div className="flex items-center mb-6">
                 <Image
                   src="/bnb-logo.png"
-                  alt="B&B Group Logo"
+                  alt="BnB Group Logo"
                   width={80}
                   height={40}
                   className="h-10 w-auto mr-3"
@@ -823,7 +823,7 @@ export default function Home() {
             </div>
 
             <div>
-              <h3 className="font-medium mb-4">ABOUT B&B GROUP</h3>
+              <h3 className="font-medium mb-4">ABOUT BnB GROUP</h3>
               <ul className="space-y-2 text-sm text-gray-400">
                 <li>
                   <a
@@ -949,7 +949,7 @@ export default function Home() {
             <div className="flex items-center">
                 <Image
                   src="/bnb-logo.png"
-                  alt="B&B Group Logo"
+                  alt="BnB Group Logo"
                   width={70}
                   height={35}
                   className="h-9 w-auto mr-3"
